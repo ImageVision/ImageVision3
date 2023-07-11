@@ -4,19 +4,17 @@ Ce SDK dispose d'une multitude de fonctions de base de traitement d'image et d'o
 
 Parce que l'entrepôt a des limites sur la taille des fichiers, cet entrepôt n'a pas de fichiers de bibliothèque statiques et les fichiers ne sont pas complets et appropriés, veuillez passer au lien suivant pour télécharger la version complète du package de compression; Toutes les mises à jour de ce SDK sont publiées via le lien ci - dessous, veuillez suivre de près les changements sur le lien ci - dessous.
 
-https://pan.baidu.com/s/1m4xi2nWj5wHQQrYefmomOA?pwd=1234 Code d'extraction: 1234
+https://pan.baidu.com/s/1F0tBFGroaztEflMBXPFVvQ?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/RVEWPP1f
+https://share.weiyun.com/1dsaoQHV
 
-https://caiyun.139.com/m/i?0H5CJry3cGOnX Code d'extraction:f1V0
+https://caiyun.139.com/m/i?0H5CIuEJ2DoNn 提取码:3xOK
 
-https://www.mediafire.com/file/of9ujnjr4r3knoz/ImageVision-SDK_8%2528%25E5%258B%2587%25E6%25AF%2585%2529.zip/file
+https://www.mediafire.com/file/0309otm39z76nce/ImageVision-SDK_10%2528WindTide%2529.zip/file
 
-https://jmj.cc/s/tr88da
+https://jmj.cc/s/a3xglk
 
-https://cloud.189.cn/web/share?code=32MJFnqINFze（Code d'extraction：2b5h）
-
-https://url95.ctfile.com/f/44915895-846055956-7e1b4b?p=9057 (Code d'extraction: 9057))
+https://cloud.189.cn/web/share?code=3M3qEjzuEVVr（访问码：3qwu）
 
 Contactez le QQgroup chat suivant:
 
