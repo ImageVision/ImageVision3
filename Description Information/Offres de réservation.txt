@@ -1,0 +1,10 @@
+Pour choisir une formule de réservation, vous devrez payer 30% du prix total de la commande et 70% du prix total restant à la livraison.
+Programme d'offres de réservation:
+Réservation 5 ~ 8 jours à l'avance: 10% de réduction sur le prix de chaque ensemble de logiciels
+Réservation 8 ~ 11 jours à l'avance: 13% de réduction sur le prix de chaque ensemble de logiciels
+Réservation 11 ~ 14 jours à l'avance: 16% de réduction sur le prix de chaque ensemble de logiciels
+Réservation 14 ~ 17 jours à l'avance: 20% de réduction sur le prix de chaque ensemble de logiciels
+Réservation 17 ~ 20 jours à l'avance: 25% de réduction sur le prix de chaque ensemble de logiciels
+Réservation 20 ~ 25 jours à l'avance: 30% de réduction sur le prix de chaque ensemble de logiciels
+Réservation plus de 25 jours à l'avance: 40% de réduction sur le prix de chaque logiciel
+Remarque: les réservations anticipées pour des dates inférieures à 5 jours ne sont pas considérées comme des réservations.

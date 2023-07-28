@@ -1,0 +1,54 @@
+Un ensemble fait référence à une seule information de machine, il se compose d'informations cpuid et chaque ensemble de logiciels ne correspond qu'à une seule information de machine. Si vous achetez 3 ensembles ~ 10 ensembles en une seule fois, chaque ensemble est calculé à 80% du prix d'origine,
+Si vous achetez plus de 10 ensembles en une seule fois, chaque ensemble est calculé à 50% du prix d'origine.
+Le prix de ce produit ancre le prix de l'or en Chine et est réglé en RMB au cours de clôture de l'or à la China Shanghai Gold Exchange le jour précédant le jour où l'ordre de négociation est soumis comme le prix de l'or correspondant à l'ordre de négociation.
+
+Nouveaux achats:
+
+Période d'un an:
+Visual Studio 2017 (v141) x86 Release: or 4,5 G / Set
+Visual Studio 2017 (v141) x64 Release: or 4,5 G / Set
+Visual Studio 2019 (v142) x86 Release: or 4,5 G / Set
+Visual Studio 2019 (v142) x64 Release: or 4,5 G / Set
+Visual Studio 2022 (V143) x86 Release: or 4,5 G / Set
+Visual Studio 2022 (V143) x64 Release: or 4,5 G / Set
+
+Période de trois ans:
+Visual Studio 2017 (v141) x86 Release: or 10 G / Set
+Visual Studio 2017 (v141) x64 Release: or 10 G / Set
+Visual Studio 2019 (v142) x86 Release: or 10 G / Set
+Visual Studio 2019 (v142) x64 Release: or 10 G / Set
+Visual Studio 2022 (V143) x86 Release: or 10 G / Set
+Visual Studio 2022 (V143) x64 Release: or 10 G / Set
+
+Période de dix ans:
+Visual Studio 2017 (v141) x86 Release: or 30 G / Set
+Visual Studio 2017 (v141) x64 Release: or 30 G / Set
+Visual Studio 2019 (v142) x86 Release: or 30 G / Set
+Visual Studio 2019 (v142) x64 Release: or 30 G / Set
+Visual Studio 2022 (V143) x86 Release: or 30 G / Set
+Visual Studio 2022 (V143) x64 Release: or 30 G / Set
+
+
+
+Mise à niveau depuis la version précédente:
+Période d'un an:
+Visual Studio 2017 (v141) x86 Release: or 0,7 G / Set
+Visual Studio 2017 (v141) x64 Release: or 0,7 G / Set
+Visual Studio 2019 (v142) x86 Release: or 0,7 G / Set
+Visual Studio 2019 (v142) x64 Release: or 0,7 G / Set
+Visual Studio 2022 (V143) x86 Release: or 0,7 G / Set
+Visual Studio 2022 (V143) x64 Release: or 0,7 G / Set
+Période de trois ans:
+Visual Studio 2017 (v141) x86 Release: or 1,8 G / Set
+Visual Studio 2017 (v141) x64 Release: or 1,8 G / Set
+Visual Studio 2019 (v142) x86 Release: or 1,8 G / Set
+Visual Studio 2019 (v142) x64 Release: or 1,8 G / Set
+Visual Studio 2022 (V143) x86 Release: or 1,8 G / Set
+Visual Studio 2022 (V143) x64 Release: or 1,8 G / Set
+Période de dix ans:
+Visual Studio 2017 (v141) x86 Release: or 6 G / Set
+Visual Studio 2017 (v141) x64 Release: or 6 G / Set
+Visual Studio 2019 (v142) x86 Release: or 6 G / Set
+Visual Studio 2019 (v142) x64 Release: or 6 G / Set
+Visual Studio 2022 (V143) x86 Release: or 6 G / Set
+Visual Studio 2022 (V143) x64 Release: or 6 G / Set
