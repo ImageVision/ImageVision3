@@ -1,3 +1,0 @@
-Vous pouvez d'abord compresser les fichiers Image PPM, PGM, PBM, etc. avec une compression 360, puis ouvrir le fichier compressé sans le décompresser pour afficher les types de fichiers image ci - dessus.
-Les images BMP et les images JPG, etc., obtenues après le traitement de certaines fonctions de ce produit, peuvent ne pas être ouvertes avec la visionneuse de photos fournie par le système d'exploitation, qui peut envoyer ces images à QQ,
-De cette façon, vous pouvez voir ces images directement sur QQ, puis les enregistrer localement si nécessaire.
