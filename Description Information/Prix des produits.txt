@@ -5,25 +5,13 @@ Le prix de ce produit ancre le prix de l'or en Chine et est réglé en RMB au co
 Nouveaux achats:
 
 Période d'un an:
-Visual Studio 2017 (v141) x86 Release: or 0.5 grammes / Set
-Visual Studio 2017 (v141) x64 Release: or 0.5 grammes / Set
-Visual Studio 2019 (v142) x86 Release: or 0.5 grammes / Set
-Visual Studio 2019 (v142) x64 Release: or 0.5 grammes / Set
-Visual Studio 2022 (V143) x86 Release: or 0.5 grammes / Set
-Visual Studio 2022 (V143) x64 Release: or 0.5 grammes / Set
+Visual Studio x86 Release: or 0.1 grammes / Set
+Visual Studio x64 Release: or 0.1 grammes / Set
 
 Période de trois ans:
-Visual Studio 2017 (v141) x86 Release: or 1.2 grammes / Set
-Visual Studio 2017 (v141) x64 Release: or 1.2 grammes / Set
-Visual Studio 2019 (v142) x86 Release: or 1.2 grammes / Set
-Visual Studio 2019 (v142) x64 Release: or 1.2 grammes / Set
-Visual Studio 2022 (V143) x86 Release: or 1.2 grammes / Set
-Visual Studio 2022 (V143) x64 Release: or 1.2 grammes / Set
+Visual Studio x86 Release: or 0.2 grammes / Set
+Visual Studio x64 Release: or 0.2 grammes / Set
 
 Période de dix ans:
-Visual Studio 2017 (v141) x86 Release: or 3.5 grammes / Set
-Visual Studio 2017 (v141) x64 Release: or 3.5 grammes / Set
-Visual Studio 2019 (v142) x86 Release: or 3.5 grammes / Set
-Visual Studio 2019 (v142) x64 Release: or 3.5 grammes / Set
-Visual Studio 2022 (V143) x86 Release: or 3.5 grammes / Set
-Visual Studio 2022 (V143) x64 Release: or 3.5 grammes / Set
+Visual Studio x86 Release: or 0.7 grammes / Set
+Visual Studio x64 Release: or 0.7 grammes / Set
